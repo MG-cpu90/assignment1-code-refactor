@@ -1,4 +1,4 @@
-# Assignment 1: HTML, CSS, Git – Code Refactor
+# Assignment 1: HTML, CSS, Git – Code Refactor (Optional Assignment)
 
 ## Description
 The task for the following assignment, "Coding Bootcamp Assignment #1: Code Refactor Assignment", was to refactor an existing webpage to make it more accessible.
@@ -26,6 +26,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
+## Usage
+
+In order to run the application, open the "index.html" file inside th Development folder in the browser window.
+
 
 ## Deployed Links
 * GitHub Repository: https://github.com/MG-cpu90/assignment1-code-refactor
