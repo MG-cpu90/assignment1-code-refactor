@@ -29,7 +29,7 @@ THEN I find a concise, descriptive title
 
 ## Usage
 
-In order to run the application, open the "index.html" file inside th Development folder in the browser window.
+In order to run the application, open the "index.html" file inside the Development folder in the browser window.
 
 
 ## Deployed Links
