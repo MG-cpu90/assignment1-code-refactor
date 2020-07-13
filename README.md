@@ -29,7 +29,7 @@ THEN I find a concise, descriptive title
 
 ## Usage
 
-* In order to run the application, first clone the GitHub repository
+* In order to run the application, first clone the GitHub repository onto your local device
 * Then, open the "index.html" file inside the Develop folder in the browser window.
 
 
